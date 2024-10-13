@@ -9,3 +9,11 @@ The effect of window length on frequency resolution.
 Identification of dominant frequencies and fundamental frequency in speech.
 Visualization of the speech signal and its periodograms.
 This project serves as a foundation for understanding how audio signals can be processed and analyzed, with applications in fields like telecommunications, biomedical engineering, and artificial intelligence.
+
+## Project Structure
+Speech-Processing-Analysis/
+├── images/                  # Directory for plots and visualizations
+├── SpeechProcessing.py      # Python scripts for analysis
+├── README.md                # Project overview and instructions
+├── requirements.txt         # List of dependencies
+└── Speech_Processing_in_Frequency_domain_Using_Periodogram (2).pdf               # Final report
